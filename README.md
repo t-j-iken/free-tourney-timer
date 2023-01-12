@@ -13,7 +13,7 @@ Compared to other free timers, FreeTourneyTimer has some of these features:
 - Easy, simple to use GUI
 
 **Screenshot**
-![timer](/freetourneytimer2.PNG)
+![timer](freetourneytimer2.PNG)
 
 ### How To Use
 
@@ -63,7 +63,7 @@ contacting me for a patch to wear. We have a very limited number of patches avai
 Planned updates for v1.2 will come with preset tournament structures you can use. However, as someone who regularly creates/hosts tournaments, I found that this structure work best. _BB Ante_ is advised for tournaments with 12+ players. Blind levels in **bold** are optional levels that can be added to lessen variance and allow the tournament to last longer. Levels should last 20, 25, or 30 minutes.
 
 T15,0000 -> 8x25, 8x100, 4x500, 7x1000, 1x5000  
-25/50
+25/50  
 50/100  
 **75/150**  
 100/200  
