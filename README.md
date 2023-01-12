@@ -13,7 +13,7 @@ Compared to other free timers, FreeTourneyTimer has some of these features:
 - Easy, simple to use GUI
 
 **Screenshot**
-![timer](freetourneytimer2.PNG)
+![timer](/freettourneytimer2.PNG)
 
 ### How To Use
 
